@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+cpython/
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Logs generados por el programa
+errores.log
